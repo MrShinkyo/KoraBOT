@@ -3,7 +3,7 @@
 **Version de travail — champs et durées à valider avant publication**  
 Date de mise à jour : 27 octobre 2026  
 Responsable du traitement : **Kora Team**  
-Adresse de contact pour les demandes relatives aux données : **[\Kora Support\]](https://discord.gg/XdzBPY3KgH)**  
+Adresse de contact pour les demandes relatives aux données : **[Kora Support](https://discord.gg/XdzBPY3KgH)**  
 
 
 > Cette politique décrit le comportement actuel du code Kora fourni. Elle ne remplace pas l’analyse du responsable du traitement. Avant de publier le lien dans le portail développeur Discord, complétez les champs ci-dessus, confirmez les durées de conservation et assurez-vous que le contact indiqué traite effectivement les demandes d’accès et d’effacement.
